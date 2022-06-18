@@ -139,6 +139,10 @@ main #video > iframe {
     height: 90%;
 }
 
+main img {
+    width: 100%;
+}
+
 aside {
     background-color: var(--cor3);
     border-radius: 10px;
